@@ -3,6 +3,7 @@
     "description": "Use leage/plates templating engine in Glue",
     "type": "library",
     "require": {
+        "php": ">=5.5.0",
         "league/plates": "3.1.*"
     },
     "license": "MIT",
